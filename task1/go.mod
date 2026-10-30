@@ -1,0 +1,3 @@
+module interleaveguard/task1
+
+go 1.27.3
